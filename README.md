@@ -1,47 +1,28 @@
-# 🎮 Guessing Game
+# Guessing Game
 
-A **simple number guessing game** built using **C# and Windows Forms**.  
-The player enters their name, starts the game, and attempts to guess a **randomly generated number between 1 and 10** within a limited number of tries.
+A simple C# Windows Forms game I built to practice basic programming logic, user input, and interface development.
 
----
+## What I worked with
 
-## 🚀 Features
-✅ **Random Number Generation** – A new secret number is generated for each game.  
-✅ **User Input Validation** – Ensures only valid numbers are entered.  
-✅ **Limited Attempts** – Players have a fixed number of tries before the game ends.  
-✅ **Game State Tracking** – Tracks **number of attempts left** and **games played**.  
-✅ **Win/Loss Messages** – Displays dynamic feedback based on player input.  
+- C#
+- Windows Forms
+- Basic input validation
+- Random number generation
+- Simple game state logic
 
----
+## How it works
 
-## 🛠️ Tech Stack
-- **Programming Language:** C#  
-- **Framework:** .NET Windows Forms (WinForms)  
-- **IDE:** Visual Studio  
+The game generates a random number and the player tries to guess it within a limited number of attempts.
 
----
+After each guess, the game gives feedback to help the player get closer to the correct number.
 
-## ⚡ How to Run the Game
-### 1️⃣ Clone the Repository  
-```bash
-git clone https://github.com/yourusername/GuessingGame.git
-cd GuessingGame
-```
-### 2️⃣ Open in Visual Studio
-```
-Open GuessingGame.sln in Visual Studio.
-```
-### 3️⃣ Run the Application
-```
-Click the Start button (▶ Debug → Start Without Debugging).
-The game window will open!
-```
+## Running the project
 
-## 🎥 Demo Video
-🔗 Watch the Demo (Coming Soon!)
+1. Clone the repository
+2. Open the solution in Visual Studio
+3. Build the project
+4. Run the application
 
-## 📩 Contact
-For more about me, check out my **GitHub Profile README**:  
-🔗 [github.com/belladasilva](https://github.com/belladasilva)
+## About
 
-⭐ If you like this project, give it a star! 🌟
+This is an older learning project I built while practicing C# and Windows Forms.
